@@ -1,2 +1,11 @@
 dohq-artifactory
 apscheduler
+pandas
+numpy
+Pillow
+matplotlib
+cx_Oracle
+influxdb
+onetimepass
+pyqrcode
+pypng

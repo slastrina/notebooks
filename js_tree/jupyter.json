@@ -1,0 +1,426 @@
+[
+    {
+        "children": [
+            {
+                "children": [
+                    {
+                        "icon": "jstree-file",
+                        "text": "__init__.py"
+                    },
+                    {
+                        "icon": "jstree-file",
+                        "text": "template.py"
+                    }
+                ],
+                "icon": "jstree-folder",
+                "text": "tests"
+            },
+            {
+                "children": [
+                    {
+                        "icon": "jstree-file",
+                        "text": "pkgutil.py"
+                    },
+                    {
+                        "icon": "jstree-file",
+                        "text": "__init__.py"
+                    }
+                ],
+                "icon": "jstree-folder",
+                "text": "lib"
+            },
+            {
+                "icon": "jstree-file",
+                "text": "Test_Runner.ipynb"
+            }
+        ],
+        "icon": "jstree-folder",
+        "text": "Test_Runner"
+    },
+    {
+        "children": [
+            {
+                "icon": "jstree-file",
+                "text": "Slave3.ipynb"
+            },
+            {
+                "icon": "jstree-file",
+                "text": "Slave1.ipynb"
+            },
+            {
+                "icon": "jstree-file",
+                "text": "Slave4.ipynb"
+            },
+            {
+                "icon": "jstree-file",
+                "text": "Master.ipynb"
+            },
+            {
+                "icon": "jstree-file",
+                "text": "Slave2.ipynb"
+            }
+        ],
+        "icon": "jstree-folder",
+        "text": "Master_multislave_test"
+    },
+    {
+        "children": [
+            {
+                "icon": "jstree-file",
+                "text": "Chapter 3 - Dictionaries and Sets.ipynb"
+            },
+            {
+                "icon": "jstree-file",
+                "text": "Chapter 2 - Array of Sequences.ipynb"
+            },
+            {
+                "icon": "jstree-file",
+                "text": "Example 1.2 implement __repr__ __abs__ __add__ __mul__.ipynb"
+            },
+            {
+                "icon": "jstree-file",
+                "text": "Chapter 5 - Functions as Objects.ipynb"
+            },
+            {
+                "icon": "jstree-file",
+                "text": "Example 1-1 __getitem__ and __len__ methods.ipynb"
+            },
+            {
+                "icon": "jstree-file",
+                "text": "cafe.txt"
+            },
+            {
+                "icon": "jstree-file",
+                "text": "Chapter 7 - Function Decorators and Closures.ipynb"
+            },
+            {
+                "icon": "jstree-file",
+                "text": "Book Examples GIT"
+            },
+            {
+                "icon": "jstree-file",
+                "text": "Chapter 4 - Text Vs Bytes.ipynb"
+            }
+        ],
+        "icon": "jstree-folder",
+        "text": "Fluent Python Sam"
+    },
+    {
+        "children": [
+            {
+                "children": [
+                    {
+                        "icon": "jstree-file",
+                        "text": "Generate WMS URL's.ipynb"
+                    },
+                    {
+                        "icon": "jstree-file",
+                        "text": "20191203_0202_requests.csv"
+                    },
+                    {
+                        "icon": "jstree-file",
+                        "text": "20191203_0202_reqBuilder.log"
+                    }
+                ],
+                "icon": "jstree-folder",
+                "text": "Concept2"
+            },
+            {
+                "children": [
+                    {
+                        "icon": "jstree-file",
+                        "text": "WMS_Regression_Runner_Concept1.ipynb"
+                    },
+                    {
+                        "icon": "jstree-file",
+                        "text": "diff1.jpg"
+                    },
+                    {
+                        "icon": "jstree-file",
+                        "text": "wms3.jpg"
+                    },
+                    {
+                        "icon": "jstree-file",
+                        "text": "wms2.jpg"
+                    },
+                    {
+                        "icon": "jstree-file",
+                        "text": "wms1.jpg"
+                    }
+                ],
+                "icon": "jstree-folder",
+                "text": "Concept1"
+            }
+        ],
+        "icon": "jstree-folder",
+        "text": "WMS_Regression_Runner"
+    },
+    {
+        "children": [],
+        "icon": "jstree-folder",
+        "text": "out"
+    },
+    {
+        "children": [],
+        "icon": "jstree-folder",
+        "text": "in"
+    },
+    {
+        "children": [
+            {
+                "icon": "jstree-file",
+                "text": "os_path_normpath.ipynb"
+            },
+            {
+                "icon": "jstree-file",
+                "text": "Path join only joining part of path.ipynb"
+            },
+            {
+                "icon": "jstree-file",
+                "text": "ListModules.ipynb"
+            },
+            {
+                "icon": "jstree-file",
+                "text": "workarounds.ipynb"
+            },
+            {
+                "icon": "jstree-file",
+                "text": "String Concatenation Comparison.ipynb"
+            },
+            {
+                "icon": "jstree-file",
+                "text": "Ping.ipynb"
+            },
+            {
+                "icon": "jstree-file",
+                "text": "progress bar example.ipynb"
+            }
+        ],
+        "icon": "jstree-folder",
+        "text": "Experiments"
+    },
+    {
+        "children": [
+            {
+                "children": [
+                    {
+                        "icon": "jstree-file",
+                        "text": "readme.md"
+                    },
+                    {
+                        "icon": "jstree-file",
+                        "text": "text_artifact-1.2"
+                    },
+                    {
+                        "icon": "jstree-file",
+                        "text": "text_artifact-1.2.txt"
+                    }
+                ],
+                "icon": "jstree-folder",
+                "text": "downloads"
+            },
+            {
+                "children": [
+                    {
+                        "icon": "jstree-file",
+                        "text": "readme.md"
+                    },
+                    {
+                        "icon": "jstree-file",
+                        "text": "text_artifact-1.2.txt"
+                    },
+                    {
+                        "icon": "jstree-file",
+                        "text": "text_artifact-1.0.txt"
+                    },
+                    {
+                        "icon": "jstree-file",
+                        "text": "text_artifact-1.1.txt"
+                    }
+                ],
+                "icon": "jstree-folder",
+                "text": "inputs"
+            },
+            {
+                "icon": "jstree-file",
+                "text": "Api Testing.ipynb"
+            }
+        ],
+        "icon": "jstree-folder",
+        "text": "Artifactory"
+    },
+    {
+        "children": [
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "icon": "jstree-file",
+                                                "text": "40px.png"
+                                            },
+                                            {
+                                                "icon": "jstree-file",
+                                                "text": "style.min.css"
+                                            },
+                                            {
+                                                "icon": "jstree-file",
+                                                "text": "style.css"
+                                            },
+                                            {
+                                                "icon": "jstree-file",
+                                                "text": "32px.png"
+                                            },
+                                            {
+                                                "icon": "jstree-file",
+                                                "text": "throbber.gif"
+                                            }
+                                        ],
+                                        "icon": "jstree-folder",
+                                        "text": "default"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "icon": "jstree-file",
+                                                "text": "40px.png"
+                                            },
+                                            {
+                                                "icon": "jstree-file",
+                                                "text": "style.min.css"
+                                            },
+                                            {
+                                                "icon": "jstree-file",
+                                                "text": "style.css"
+                                            },
+                                            {
+                                                "icon": "jstree-file",
+                                                "text": "32px.png"
+                                            },
+                                            {
+                                                "icon": "jstree-file",
+                                                "text": "throbber.gif"
+                                            }
+                                        ],
+                                        "icon": "jstree-folder",
+                                        "text": "default-dark"
+                                    }
+                                ],
+                                "icon": "jstree-folder",
+                                "text": "themes"
+                            },
+                            {
+                                "icon": "jstree-file",
+                                "text": "jstree.min.js"
+                            },
+                            {
+                                "icon": "jstree-file",
+                                "text": "jstree.js"
+                            }
+                        ],
+                        "icon": "jstree-folder",
+                        "text": "jstree"
+                    }
+                ],
+                "icon": "jstree-folder",
+                "text": "lib"
+            },
+            {
+                "children": [
+                    {
+                        "icon": "jstree-file",
+                        "text": "index.html.j2"
+                    }
+                ],
+                "icon": "jstree-folder",
+                "text": "templates"
+            },
+            {
+                "icon": "jstree-file",
+                "text": "jupyter.html"
+            },
+            {
+                "icon": "jstree-file",
+                "text": "js_tree_test1.py"
+            },
+            {
+                "icon": "jstree-file",
+                "text": "jupyter.json"
+            }
+        ],
+        "icon": "jstree-folder",
+        "text": "js_tree"
+    },
+    {
+        "children": [
+            {
+                "icon": "jstree-file",
+                "text": "Client.ipynb"
+            },
+            {
+                "icon": "jstree-file",
+                "text": "Server.ipynb"
+            }
+        ],
+        "icon": "jstree-folder",
+        "text": "TCP_Communication"
+    },
+    {
+        "children": [
+            {
+                "icon": "jstree-file",
+                "text": "APScheduler_test1.ipynb"
+            }
+        ],
+        "icon": "jstree-folder",
+        "text": "APScheduler"
+    },
+    {
+        "icon": "jstree-file",
+        "text": "SMTP Test.ipynb"
+    },
+    {
+        "icon": "jstree-file",
+        "text": "MultiCast_Receive(Threaded).ipynb"
+    },
+    {
+        "icon": "jstree-file",
+        "text": "LICENSE"
+    },
+    {
+        "icon": "jstree-file",
+        "text": "requirements.txt"
+    },
+    {
+        "icon": "jstree-file",
+        "text": "MultiCast_Receive.ipynb"
+    },
+    {
+        "icon": "jstree-file",
+        "text": "influxdb_session_context.ipynb"
+    },
+    {
+        "icon": "jstree-file",
+        "text": "MultiCast_Send.ipynb"
+    },
+    {
+        "icon": "jstree-file",
+        "text": "Check if item exists in List using 'in' 'Set' 'Bisect' Performance Comparison.ipynb"
+    },
+    {
+        "icon": "jstree-file",
+        "text": "README.md"
+    },
+    {
+        "icon": "jstree-file",
+        "text": "Two Factor.ipynb"
+    },
+    {
+        "icon": "jstree-file",
+        "text": "dbmsToYml.ipynb"
+    }
+]
