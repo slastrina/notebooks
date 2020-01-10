@@ -1,0 +1,7 @@
+{
+  "entrypoint": "./main.py",
+  "files": [
+    "./__init__.py",
+    "./main.py"
+  ]
+}

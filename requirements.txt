@@ -9,3 +9,4 @@ influxdb
 onetimepass
 pyqrcode
 pypng
+dulwich --global-option=--pure
